@@ -58,20 +58,22 @@ experiences:
       time: 2017-2020
       company: Magic Leap 
       details: |
-        Foo bar
+        I lead the devlopment of a research oriented SLAM system. Written in Python with some C++ backend. 
+        Developed and maintained metrics, visualization and automated analysis sytems. 
     - role: Software and Algorithms Engineer
       time: 2014 - 2015
       company: Visionmap (currently RAFAEL)
-      details: |        
-          - **Image processing**, computer vision and photogrammetry. 
+      details: |   
+        Lorem Ipsum     
+          - Image processing, computer vision and photogrammetry. 
           - Software development and research with **C++** and **Python**
-      - role: Research Assistant 
-        time: 2011-2013
-        company: Technion
-        details: |        
-            - Solid state and Statiscial physics. 
-            - HPC Mone-carlo simulation of physical system (C++).
-            - Data analysis and simulation using Python. 
+    - role: Research Assistant 
+      time: 2011-2013
+      company: Technion
+      details: |        
+           - Solid state and Statiscial physics. 
+           - HPC Mone-carlo simulation of physical system (C++).
+           - Data analysis and simulation using Python. 
     - role: Teaching Assistant 
       time: 2011-2013
       company: Technion
@@ -116,16 +118,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: SLAM
         level: 90%
-      - name: C++
-        level: 80%
-      - name: Javascript (Vue.js, Three.js)
-        level: 70%
       - name: Computer Vision 
-        level: 70%
-      - name: SLAN
         level: 80%
+      - name: Python
+        level: 95%
+      - name: C++
+        level: 85%
+      - name: Javascript
+        level: 70%
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
